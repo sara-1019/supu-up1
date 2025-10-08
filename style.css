@@ -1,0 +1,5 @@
+body { font-family: sans-serif; text-align: center; padding: 20px; }
+#map { display: flex; justify-content: center; gap: 4px; margin-top: 20px; }
+.cell { width: 36px; height: 36px; border: 1px solid #ccc; display:flex; align-items:center; justify-content:center; }
+.player { background: #9ae6b4; } /* 緑 */
+.monster { background: #feb2b2; } /* 赤 */
